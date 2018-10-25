@@ -10,9 +10,9 @@ public class Solution {
     public static void main(String[] args) {
         //Блок 2.
         //Вызов для Object
-        new Tree().info((Object)new Integer("4"));
-        new Tree().info((Object)new Short("4"));
-        new Tree().info((Object)new BigDecimal("4"));
+        new Tree().info((Object) new Integer("4"));
+        new Tree().info((Object) new Short("4"));
+        new Tree().info((Object) new BigDecimal("4"));
 
         //Блок 3.
         //Вызов для Number
